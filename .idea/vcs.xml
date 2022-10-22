@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flake8-broken-line" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flake8-isort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flake8-return" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pep8-naming" vcs="Git" />
+  </component>
+</project>
